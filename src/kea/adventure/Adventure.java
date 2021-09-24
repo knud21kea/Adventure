@@ -43,7 +43,7 @@ public class Adventure {
     }
 
     private static void unknownCommand(String menuOption) {
-        System.out.println("I do not understand " + menuOption);
+        System.out.println("I do not understand \"" + menuOption + "\"");
     }
 
     private static void roomDescription() {
