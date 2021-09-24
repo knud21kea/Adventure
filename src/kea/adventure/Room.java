@@ -2,5 +2,6 @@ package kea.adventure;
 
 public class Room {
 
-    private String name;
-}
+    private String roomName;
+    private String roomDescription;
+    }
