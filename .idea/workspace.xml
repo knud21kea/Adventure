@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0192511e-91c8-4ef0-b1e9-12d193e3e7b5" name="Changes" comment="Move-room control moved back to Adventure class." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ya2mPhmbgwYINuuA0STJzGJM0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Adventure" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kea.adventure.Adventure" />
+      <module name="Adventure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kea.adventure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0192511e-91c8-4ef0-b1e9-12d193e3e7b5" name="Changes" comment="" />
+      <created>1632475538884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632475538884</updated>
+      <workItem from="1632475540807" duration="32307000" />
+      <workItem from="1632555709903" duration="9100000" />
+      <workItem from="1632568329026" duration="753000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1632475761721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632475761721</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first draft of user interface">
+      <created>1632486569098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632486569098</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first draft of user interface">
+      <created>1632487685962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632487685962</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Primitive code to move through the 9 rooms added to UI">
+      <created>1632556485804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632556485804</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Primitive code to move through the 9 rooms added to UI">
+      <created>1632556827174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632556827174</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Move-room control moved back to Adventure class.">
+      <created>1632567482648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632567482648</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Move-room control moved back to Adventure class.">
+      <created>1632568459810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632568459810</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="first draft of user interface" />
+    <MESSAGE value="Primitive code to move through the 9 rooms added to UI" />
+    <MESSAGE value="Move-room control moved back to Adventure class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Move-room control moved back to Adventure class." />
+  </component>
+</project>
